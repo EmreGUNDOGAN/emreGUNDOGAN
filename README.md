@@ -1,7 +1,7 @@
 Hi 👋 My name is Emre GÜNDOĞAN
 ==============================
 
-I'm a self-thougt Junior Frontend Developer
+I'm a self-thougth Junior Frontend Developer
 -------------------------------------------
 
 I've been studying on this field for almost a year and consistently improving myself. Currently, I am qualified with creating responsive websites using HTML and CSS. Recently I am working on my javaScript skill. My short-term goals are to learn APIs and Reactjs.
