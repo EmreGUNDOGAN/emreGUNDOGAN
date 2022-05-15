@@ -8,7 +8,7 @@ I've been studying on this field for almost a year and consistently improving my
 
 * 🌍  I'm based in Istanbul/Turkey
 * ✉️  You can contact me at [emregundogan5@gmail.com](mailto:emregundogan5@gmail.com)
-* 🤝  I'm open to collaborating on Based on HTML and CSS projects
+* 🤝  I'm open to collaborating on based on HTML and CSS projects
 * ⚡  Feel free to contact me with out without any reason.
 
 ### Skills
