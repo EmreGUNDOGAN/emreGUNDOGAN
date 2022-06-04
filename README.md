@@ -1,4 +1,4 @@
-Hi 👋 My name is Emre GÜNDOĞAN
+Hi 👋 Its me! Emre GÜNDOĞAN
 ==============================
 
 I'm a self-thougth Junior Frontend Developer
