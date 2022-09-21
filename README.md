@@ -4,7 +4,7 @@ Hi 👋 Its me! Emre GÜNDOĞAN
 I'm a self-thought Junior Frontend Developer
 -------------------------------------------
 
-I've been studying on this field for almost a year and consistently improving myself. Currently, I am qualified with creating responsive websites using HTML and CSS. Recently, I am working on my javaScript skill. My short-term goals are to learn APIs and Reactjs.
+I've been studying on this field for almost a year and consistently improving myself. Currently, I am qualified with creating responsive websites using HTML and CSS. Recently, I am working on my ReactJs skill. My short-term goal is to learn Reactjs.
 
 * 🌍  I'm based in Istanbul/Turkey
 * ✉️  You can contact me at [emregundogan5@gmail.com](mailto:emregundogan5@gmail.com)
