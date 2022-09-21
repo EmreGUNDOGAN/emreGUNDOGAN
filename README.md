@@ -1,7 +1,7 @@
 Hi 👋 Its me! Emre GÜNDOĞAN
 ==============================
 
-I'm a self-thought Junior Frontend Developer
+I'm a self-thought Frontend Developer
 -------------------------------------------
 
 I've been studying on this field for almost a year and consistently improving myself. Currently, I am qualified with creating responsive websites using HTML and CSS. Recently, I am working on my ReactJs skill. My short-term goal is to learn Reactjs.
