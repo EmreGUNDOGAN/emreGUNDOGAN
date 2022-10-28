@@ -11,9 +11,11 @@ I've been studying on this field for almost a year and consistently improving my
 * 🤝  I'm open to collaborating on Responive Website projects.
 * ⚡  Feel free to contact me with or without any reason.
 
-### Skills
 
-<p align="left">
+
+### Skills
+<table><tr><td valign="top" width="33%">
+<div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="36" width="36"/></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="36" width="36" /></a>  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="36" width="36" /></a>  
@@ -22,10 +24,9 @@ I've been studying on this field for almost a year and consistently improving my
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="36" width="36" /></a>  
   <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="36"  width="36"/></a>  
 </div>
+</div>
 
-</p>
-
-
+</td><td valign="top" width="33%">
 
 ### Socials
 
