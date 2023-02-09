@@ -1,7 +1,7 @@
 Hi 👋 Its me! Emre GÜNDOĞAN
 ==============================
 
-I'm a self-thought Frontend Developer
+I'm a Frontend Developer
 -------------------------------------------
 
 With a year of self-taught experience in the FrontEnd development field, I have honed my skills in HTML, CSS and JavaScript and am currently focused on enhancing my expertise in ReactJS. To continually improve my skills, I have utilized a variety of resources, such as Scrimba, freeCodeCamp, w3Schools, and others. My goal is to become a more proficient  ReactJS developer in the near future.
