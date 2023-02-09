@@ -4,7 +4,8 @@ Hi 👋 Its me! Emre GÜNDOĞAN
 I'm a self-thought Frontend Developer
 -------------------------------------------
 
-I've been studying on this field for almost a year and consistently improving myself. Currently, I am qualified with creating responsive websites using HTML, CSS and JavaScript. Recently, I am working on my ReactJS skills.
+With a year of self-taught experience in the FrontEnd development field, I have honed my skills in HTML, CSS and JavaScript and am currently focused on enhancing my expertise in ReactJS. To continually improve my skills, I have utilized a variety of resources, such as Scrimba, freeCodeCamp, w3Schools, and others. My goal is to become a more proficient  ReactJS developer in the near future. In addition to my technical proficiency, I bring a solid foundation in teamwork, effective communication, and stress management, developed through my prior education and professional experiences.
+
 
 * 🌍  I'm based in Istanbul/Turkey
 * ✉️  You can contact me at [emregundogan5@gmail.com](mailto:emregundogan5@gmail.com)
