@@ -42,7 +42,7 @@ In addition to my technical proficiency, I bring a solid foundation in teamwork,
 # Stats
 ![Emre's GitHub stats](https://github-readme-stats-yagmurakincisoylu.vercel.app/api?username=yagmurakincisoylu&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=cobalt)
   </br>
-[![Top Langs](https://github-readme-stats-yagmurakincisoylu.vercel.app/api/top-langs/?username=yagmurakincisoylu&layout=compact&exclude_repo=github-readme-stats,yagmurakincisoylu.github.io&theme=cobalt)](https://github.com/yagmurakincisoylu/github-readme-stats)
+[![Top Langs](https://github-readme-stats-emregundogan.vercel.app/api/top-langs/?username=emregundogan&layout=compact&exclude_repo=github-readme-stats,emregundogan.github.io&theme=cobalt)](https://github.com/emregundogan/github-readme-stats)
 
 # Socials
 
