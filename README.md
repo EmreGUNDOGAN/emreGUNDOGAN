@@ -1,10 +1,10 @@
 Hi 👋 Its me! Emre GÜNDOĞAN
 ==============================
 
-I'm a Frontend Developer
+About Me
 -------------------------------------------
 
-With a year of self-taught experience in the Frontend development field, I have honed my skills in HTML, CSS and JavaScript and am currently focused on enhancing my expertise in ReactJS. To continually improve my skills, my goal is to become a more proficient ReactJS developer in the near future.
+With over a year of self-taught experience in the Frontend development field, I have honed my skills in HTML, CSS and JavaScript and am currently focused on enhancing my expertise in ReactJS. To continually improve my skills, my goal is to become a more proficient ReactJS developer in the near future.
 
 In addition to my technical proficiency, I bring a solid foundation in teamwork, effective communication, and stress management, developed through my prior education and professional experiences.
 
