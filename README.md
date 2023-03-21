@@ -48,7 +48,7 @@ In addition to my technical proficiency, I bring a solid foundation in teamwork,
 <a href="https://codepen.com/emregundogan" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-[![Portfolio](https://img.shields.io/badge/Potfolio-348DA3?style=for-the-badge&logoColor=white)](https://yagmurakincisoylu-portfolio.netlify.app/))
+
 </div>  
 
 ### Badges
