@@ -41,12 +41,9 @@ In addition to my technical proficiency, I bring a solid foundation in teamwork,
 
 # Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmreGUNDOGAN&include_all_commits=true&hide=contribs,prs,issues&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Emre Gündoğan Github Stats">
-<br />
-<br />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreGUNDOGAN&layout=compact&theme=dark&bg_color=0A0A0A" alt="Emre Gündoğan Top Languages"/>
-<br />
-<br />
-<br />
+
 
 
 # Socials
