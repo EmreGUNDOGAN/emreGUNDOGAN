@@ -40,9 +40,9 @@ In addition to my technical proficiency, I bring a solid foundation in teamwork,
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 # Stats
-![EmreGUNDOGAN's GitHub stats](https://github-readme-stats-EmreGUNDOGAN.vercel.app/api?username=EmreGUNDOGAN&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=cobalt)
+![Emre Gündoğan's GitHub stats](https://github-readme-stats-EmreGUNDOGAN.vercel.app/api?username=EmreGUNDOGAN&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=cobalt)
   </br>
-[![Top Langs](https://github-readme-stats-EmreGUNDOGAN.vercel.app/api/top-langs/?username=EmreGUNDOGAN&layout=compact&exclude_repo=github-readme-stats,EmreGUNDOGAN.github.io&theme=cobalt)](https://github.com/EmreGUNDOGAN/github-readme-stats)
+![Top Langs](https://github-readme-stats-EmreGUNDOGAN.vercel.app/api/top-langs/?username=EmreGUNDOGAN&layout=compact&exclude_repo=github-readme-stats,EmreGUNDOGAN.github.io&theme=cobalt)](https://github.com/EmreGUNDOGAN/github-readme-stats)
 
 
 # Socials
