@@ -48,8 +48,7 @@ In addition to my technical proficiency, I bring a solid foundation in teamwork,
 <a href="https://codepen.com/emregundogan" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-  [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/emregundogan)
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Ephialtes#4288)
+[![Portfolio](https://img.shields.io/badge/Potfolio-348DA3?style=for-the-badge&logoColor=white)](https://yagmurakincisoylu-portfolio.netlify.app/))
 </div>  
 
 ### Badges
