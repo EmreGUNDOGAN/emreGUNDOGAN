@@ -12,7 +12,7 @@ In addition to my technical proficiency, I bring a solid foundation in teamwork,
 * 🌍  I'm based in Istanbul/Turkey
 * ✉️  You can contact me at [emregundogan5@gmail.com](mailto:emregundogan5@gmail.com)
 * 🧩  I spend my free time watching movies, playing strategy games and spending time with my beloved ones.
-* 🤝  I'm open to collaborating on Responive Website projects.
+* 🤝  I'm open to collaborating on Responsive Website projects.
 * ⚡  Feel free to contact me with or without any reason.
 
 # Skills
